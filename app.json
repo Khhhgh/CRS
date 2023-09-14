@@ -24,7 +24,7 @@
       },
       "USER_OWNER": {
         "description": "معرفك  بدون @",
-        "value": "N_1_F",
+        "value": "Q0CQ0p",
         "required": true
       },
       "START_IMG_URL": {
@@ -39,12 +39,12 @@
       },
       "SUPPORT_CHANNEL": {
         "description": "معرف قناتك بدون @",
-        "value": "VVHH9",
+        "value": "mane5u",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "توكن بوتك",
-        "value": "6263074417:AAFH170jmvECjc1WaTNNukjSS-Ad50gbhVc",
+        "value": "6430641346:AAGnqj6HfN_ncyAvtMI3eiouCQuYn7zHnC4",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -54,17 +54,17 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "اسم بوتك بالعربي",
-        "value": "كرستال",
+        "value": "نارو",
         "required": true
       },
       "OWNER_ID": {
         "description": "ايديك تقدر تحط اكثر من ايدي بس مسافه بين كل ايدي",
-        "value": "5676384368",
+        "value": "5997009476",
         "required": true
       },
       "STRING_SESSION": {
         "description": "جلسة بايروجرام حساب المساعد نوع V2",
-        "value": "BAAhIHQAHuauxQHiZT8f721r4sGcC2gBgFQW8f4Us-JDJNsQtD3qUTZZ0aDsyquZ2TsIcDF33CWTjXGvNP5GIK9szulT0Pz4rT7q57q7AV083qNnvEfFfh1YGnBNOSwbBa_uVZco_zlk1AekyAV8ipS4lNa5KqrCWuF6Fxm8OpfV1VCiNAI6zTQdNFNrgJBm_hI8sdLGXos6inormyPX1d9IBIwkfizCmM2dJ1YGVtvJh0KtGwkWUHgYEknfPZk0XaMKuQREaq8MNo5dkat5Akj0tOFS573n0lseF0Gk3vwtgyWi8VNB750GxXY-YhV02F0yEZuXi2l0wpw7T0M67BHMvIakygAAAAFhguqrAA",
+        "value": "1BJWap1sBu2J2TvyPvknv7HkskdQ6aNQ-_mZ4HBGpgawDloUIa5IibmOivpifl6MTu5wMaUU4eDrBP4QdrtuBSzo-9qh4S8COaU3CijWn2dTscwSPwpdfljf1pNYgtyCPr-wRTcfIar03SrJ0g3W6byXnXEgixWRG4gpmIy8KkRyJSKPzzIRc0M6uy7eVejR2WVrbj__bigfGeLzUnhMikKpREODW-u2xfJ2-ayOJuGJ5Rc6ergJt7eRau5LgIt56oWaXaWosLXiDFcMe7ut8_L2PSqpZd8LAYv0x3kN2qksb7pfXCTDQlFYPLPBiXP-IjBbtBACpVYzTpWE62vO4p__fU1Sz9a8=",
         "required": true
       },
       "HEROKU_API_KEY": {
