@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "ماتبعصش القيمه",
-        "value": "1747534",
+        "value": "25996320",
         "required": true
       },
      "CHANNEL_ID": {
         "description": "خلي مثل ماهو",
-        "value": "1747534",
+        "value": "25996320",
         "required": true
       },
       "USER_OWNER": {
@@ -34,7 +34,7 @@
       },
       "API_HASH": {
         "description": "خلي القيمه زي ماهي",
-        "value": "5a2684512006853f2e48aca9652d83ea",
+        "value": "772cefc3a92ed382b6c24adbd0d3ea26",
         "required": true
       },
       "SUPPORT_CHANNEL": {
